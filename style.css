@@ -85,3 +85,30 @@
     max-width: 400px;
 }
 
+.portfolio-categories {
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+.portfolio-link-name {
+  line-height: 2;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+.portfolio-link {
+  margin-right: 10px;
+}
+
+a:hover {
+  color: aqua;
+  transition: all 0.5s ease-in;
+}
+
+.social-link {
+  margin: 20px;
+  font-size: 1.2rem;
+}
+
+h4 {
+  color: aquamarine;
+}
+
