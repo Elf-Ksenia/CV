@@ -39,6 +39,9 @@
 .d-flex{
     display: flex;
   }
+  .wrap {
+    flex-wrap: wrap;
+  }
   .flex-direction-column {
     flex-direction: column;
   }
@@ -92,10 +95,11 @@
 .portfolio-link-name {
   line-height: 2;
   font-size: 1.2em;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .portfolio-link {
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 a:hover {
